@@ -1,2 +1,3 @@
 Mini 3D engine
 This engine was created to demonstrate the interaction of different types of balls, which requires a lot of additions and time, but I have a desire to finish it. Initially, it was just created as a study project.  
+VM options: --module-path "C:\Users\nikly\Desktop\javafx-sdk-25.0.1\lib" --add-modules javafx.controls,javafx.fxml,javafx.media --add-exports javafx.base/com.sun.javafx=ALL-UNNAMED --add-exports javafx.media/com.sun.media.jfxmedia=ALL-UNNAMED --add-exports javafx.media/com.sun.media.jfxmediaimpl=ALL-UNNAMED --add-opens javafx.media/com.sun.media.jfxmedia=ALL-UNNAMED --add-opens javafx.media/com.sun.media.jfxmediaimpl=ALL-UNNAMED
